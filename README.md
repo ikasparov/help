@@ -1,9 +1,13 @@
 # Help
 
-## JavaScript
+# JavaScript
 
 
 - https://habrahabr.ru/post/114483 - console features
+
+# Ruby on Rails
+
+- Presenters - http://nithinbekal.com/posts/rails-presenters/
 
 ## Other
 
