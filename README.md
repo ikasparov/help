@@ -3,7 +3,7 @@
 # JavaScript
 
 
-- https://habrahabr.ru/post/114483 - console features
+- Console Features - https://habrahabr.ru/post/114483
 
 # Ruby on Rails
 
